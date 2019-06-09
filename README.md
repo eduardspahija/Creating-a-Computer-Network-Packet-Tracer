@@ -1,6 +1,11 @@
-# Dizajnimi-i-rrjetes-se-UP-me-Packet-Tracer
-Projekti 2 semestral nga lenda "Rrjeta Kompjuterike"
+# P2_GR1
+Projekti i dytë semestral nga lënda "Rrjeta Kompjuterike"
 
 Dizajnimi i rrjetës së Universitetit të Prishtinës me Packet Tracer
 
-Anëtarët: Eduard Spahija, Fatbardh Kadriu, Fatbardh Gashi.
+Studentët:
+  * Eduard Spahija
+  * Fatbardh Kadriu
+  * Fatbardh Gashi
+
+
